@@ -1,5 +1,6 @@
 # Docker Workshop — Starter Repo
 
+
 In this workshop, You'll **containerize a Node.js + Express
 web app backed by Postgres**, orchestrate it with **docker-compose**, and wire
 up a **GitHub Actions CI pipeline** that builds your image, scans it with
